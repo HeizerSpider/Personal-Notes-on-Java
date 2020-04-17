@@ -10,7 +10,7 @@
 8) [Exceptions](https://github.com/HeizerSpider/Personal-Notes-on-Java/blob/master/java_notes.md#8-exceptions)
 9) [Design Patterns](https://github.com/HeizerSpider/Personal-Notes-on-Java/blob/master/java_notes.md#9-design-patterns)
 10) [Recursion](https://github.com/HeizerSpider/Personal-Notes-on-Java/blob/master/java_notes.md#10-recursion)
-11) [Math Functions](https://github.com/HeizerSpider/Personal-Notes-on-Java/blob/master/java_notes.md#11-math-functions)
+11) [Math Functions](https://github.com/HeizerSpider/Personal-Notes-on-Java/blob/master/java_notes.md#11-math-functions)  
 Additional Static vs Dynamic Checking
 
 
