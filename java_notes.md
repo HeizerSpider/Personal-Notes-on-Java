@@ -1,6 +1,6 @@
 # Java Notes
 
-1) Modifier
+1) (Modifier)[https://github.com/HeizerSpider/Personal-Notes-on-Java/blob/master/java_notes.md#1-modifier]
 2) Class, Methods and Variables (Basic)
 3) Constructors
 4) Arrays, ArrayList and LinkedList
