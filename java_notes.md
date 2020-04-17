@@ -1,7 +1,7 @@
 # Java Notes
 
 1) [Modifier](https://github.com/HeizerSpider/Personal-Notes-on-Java/blob/master/java_notes.md#1-modifier)
-2) Class, Methods and Variables (Basic)
+2) [Class, Methods and Variables (Basic)](https://github.com/HeizerSpider/Personal-Notes-on-Java/blob/master/java_notes.md#2-class-methods-variables-basic)
 3) Constructors
 4) Arrays, ArrayList and LinkedList
 5) Inheritance and Interfaces (Includes comparable and comparator)
